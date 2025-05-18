@@ -1,0 +1,14 @@
+{
+  "name": "@aws-samples/lambda",
+  "dependencies": {
+    "@aws/web3-http-provider": "^1.0.1",
+    "@types/aws-lambda": "^8.10.93",
+    "@types/uuid": "^8.3.4",
+    "abi-decoder": "^2.4.0",
+    "aws-lambda": "^1.0.7",
+    "aws-sdk": "^2.1354.0",
+    "electron": "^22.3.25",
+    "uuid": "^8.3.2",
+    "web3": "^4.0.2"
+  }
+}
